@@ -1,0 +1,55 @@
+.resultado {
+
+    width: 60px;
+    border: none;
+    font-size: 18px;
+    text-align: center;
+    font-family: "Gaegu", sans-serif;
+}
+
+body {
+
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rbmemTsQXjlYdcDjJdgVCghYdnoRU_D2OQ&s');
+}
+
+div {
+
+    margin: auto;
+    justify-content: center;
+    width: fit-content;
+    background-color: white;
+    border-radius: 7px;
+    padding: 3%;
+    height: 650px;
+}
+
+h1,
+h2,
+h3,
+label {
+
+    font-family: "Gaegu", sans-serif;
+    font-size: 20px;
+    padding: auto;
+    width: fit-content;
+}
+
+select {
+
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    padding: 0.5%;
+}
+
+button {
+
+   
+    font-family: "Gaegu", sans-serif;
+    font-size: 20px;
+    width: fit-content;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    padding: 0.8%;
+}
