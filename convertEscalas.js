@@ -8,8 +8,15 @@
     let valorDigitado = document.getElementById('valorDigitado');
     let resultado = document.getElementById('resultado');
     let conversao;
+
+    const form = document.getElementById('form');
+    form.addEventListener('submit', (e)=> {
+
+      e.preventDefault();
+    });
     
     function converter() {
+
       
       switch (true){
 
